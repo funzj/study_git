@@ -26,3 +26,11 @@ hs_err_pid*
 /**/classes
 /**/target
 /**/out
+
+
+# IDEA
+*.iml
+/**/.idea
+# Eclipse
+*.project
+*.settings
