@@ -28,7 +28,7 @@ classes/
 target/
 out/
 
-# STS
+# STS & Eclipse
 .apt_generated
 .classpath
 .factorypath
